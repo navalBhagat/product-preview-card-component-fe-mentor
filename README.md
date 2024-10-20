@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/product-preview-card-component-fe-mentor)
-- Live Site URL: [Vercel](TODO)
+- Live Site URL: [Vercel](https://product-preview-card-component-fe-mentor.vercel.app/)
 
 ## Author
 
